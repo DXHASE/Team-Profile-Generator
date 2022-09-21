@@ -27,27 +27,27 @@ test('create email', () => {
     expect(employee.email).toBe(email);
 });
 
-test('get employee name',() => {
+test('get employee name method',() => {
     const name = 'Dan';
     const employee = new Employee(name)
 
     expect(employee.getName()).toBe(name);
 });
 
-test('get id',() => {
+test('get id method',() => {
     const id = 12;
     const employee = new Employee('Dan',id);
 
     expect(employee.getId()).toBe(id);
 })
-test('get email', () => { 
+test('get email method', () => { 
     const email = "daniel@chase.com";
     const employee = new Employee('Dan',12,email);
 
     expect(employee.getEmail()).toBe(email);
 })
 
-test('get role',() => {
+test('get role method',() => {
     const role = 'Employee';
     const employee = new Employee('Dan',12,'daniel@chase.com',role);
 
