@@ -1,6 +1,6 @@
 const Engineer = require('../lib/Engineer');
 
-test('create github',() => {
+test('gets github account',() => {
 const github = 'DXHASE';
 const employee = new Engineer('Dan',12,'daniel@chase.com',github);
 
