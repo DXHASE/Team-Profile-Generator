@@ -29,3 +29,5 @@
   ## Questions
   - If you have any questions over the project, contact me at: danielchas886@gmail.com
   - Github Link: https://github.com/DXHASE
+## Video
+- 
