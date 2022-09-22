@@ -117,6 +117,7 @@ function newHtml(teamMember){
             <div class = "card">
                 <h3 class="card-header title is-4">${name}<h3>
                 <ul>
+                    <li>Role:${role}<li>
                     <li>ID:${id}<li>
                     <li>Email: ${email}<li>
                     <li>Github: ${github}<li>
@@ -129,6 +130,7 @@ function newHtml(teamMember){
             <div class = "card">
                 <h3 class="card-header title is-4">${name}<h3>
                 <ul>
+                    <li>Role:${role}<li>
                     <li>ID:${id}<li>
                     <li>Email: ${email}<li>
                     <li>School Name: ${school}<li>
@@ -141,6 +143,7 @@ function newHtml(teamMember){
             <div class = "card">
                 <h3 class="card-header title is-4">${name}<h3>
                 <ul>
+                    <li>Role:${role}<li>
                     <li>ID:${id}<li>
                     <li>Email: ${email}<li>
                     <li>Office Number: ${officeNumber}<li>
