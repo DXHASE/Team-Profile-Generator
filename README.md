@@ -30,4 +30,5 @@
   - If you have any questions over the project, contact me at: danielchas886@gmail.com
   - Github Link: https://github.com/DXHASE
 ## Video
-- 
+- [Untitled_ Sep 21, 2022 10_13 PM.webm](https://user-images.githubusercontent.com/108304356/191651129-d91d8f6e-687c-4ca1-8def-3d6702eb2724.webm)
+
